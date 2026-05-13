@@ -24,10 +24,10 @@ API REST desenvolvida com ASP.NET Core para controle de estoque.
 ## 📷 Demonstração
 
 ### Swagger
-![Swagger](images/swagger.png)
+![Swagger](Images/swagger.png)
 
 ### Exemplo de retorno da API
-![Response](images/get-all.png)
+![Response](Images/get-all.png)
 
 ## ▶ Como executar
 
